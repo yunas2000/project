@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: blueviolet; */
+    background-image: linear-gradient(red, blueviolet);
+    margin-top: 20px;
+}
+.ali{
+    margin-top: 20px;
+}
+.akhil{
+    /* background-color: brown; */
+    list-style: none;
+    margin-top: 20px;
+    width: 225px;
+    height: 20px;
+ padding-left: 10px;
+ 
+}
+#enter{
+    /* border: none; */
+    /* border-style: none; */
+    outline: none;
+}
+
